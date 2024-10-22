@@ -1,6 +1,6 @@
 file_format: "1"
 id: paintbrushchorder
-name: paintbrushchorder/Sweep
+name: Ferris/Sweep
 type: shield
 url: https://github.com/davidphilipbarr/Sweep
 requires: [pro_micro]
