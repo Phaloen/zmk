@@ -1,0 +1,8 @@
+# Copyright (c) 2020 The ZMK Contributors
+# SPDX-License-Identifier: MIT
+
+config SHIELD_PAINTBRUSHCHORDER_LEFT
+    def_bool $(shields_list_contains,paintbrushchorder_left)
+
+config SHIELD_PAINTBRUSHCHORDER_RIGHT
+    def_bool $(shields_list_contains,paintbrushchorder_right)
